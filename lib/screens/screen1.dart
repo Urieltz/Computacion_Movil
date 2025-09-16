@@ -16,7 +16,7 @@ class Screen1 extends StatelessWidget {
               children: [
                 RichText(
                   text: TextSpan(
-                    text: 'Home  /  ',
+                    text: 'Home   /  ',
                     style: TextStyle(color: Colors.blue, fontWeight: FontWeight.bold),
                   ),
                 ),
