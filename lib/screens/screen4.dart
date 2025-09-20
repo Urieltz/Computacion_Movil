@@ -5,8 +5,8 @@ class Screen4 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text('Screen4')),
-      body: const Center(child: Text('Screen4')),
+      appBar: AppBar(title: const Text('Screen4 Paola Hidalgo')),
+      body: const Center(child: Text('Screen4 Paola Hidalgo')),
     );
   }
 }
