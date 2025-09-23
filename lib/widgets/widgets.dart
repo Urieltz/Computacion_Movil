@@ -1,0 +1,13 @@
+export 'package:travel_chile/widgets/advanced_search.dart';
+export 'package:travel_chile/widgets/clima_card.dart';
+export 'package:travel_chile/widgets/experience_card.dart';
+export 'package:travel_chile/widgets/experiencias.dart';
+export 'package:travel_chile/widgets/footer.dart';
+export 'package:travel_chile/widgets/gallery.dart';
+export 'package:travel_chile/widgets/hamburger_menu.dart';
+export 'package:travel_chile/widgets/header.dart';
+export 'package:travel_chile/widgets/image_carousel.dart';
+export 'package:travel_chile/widgets/intereses.dart';
+export 'package:travel_chile/widgets/section.dart';
+export 'package:travel_chile/widgets/textoEstandar.dart';
+export 'package:travel_chile/widgets/titulo_widget.dart';
